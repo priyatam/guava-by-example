@@ -1,4 +1,4 @@
-# Fun with Guava
+# Guava by example.
 
 Sample coe to demonstrate [Google Guava](http://code.google.com/p/guava-libraries/)'s collection, functional, and other goodies.
 
